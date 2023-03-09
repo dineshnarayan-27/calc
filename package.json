@@ -1,7 +1,7 @@
 {
-    "name": "calc", // name of the respotary
+    "name": "calc",
     "version": "0.0.1",
-    "main": "a",// name of the main js file
+    "main": "a",
     "repository": {
         "type": "git",
         "url":"https://github.com/dineshnarayan-27/calc"
@@ -11,7 +11,10 @@
         "cal"
     ],
     "dependencies": {},
-    "engines": {},
-    "node": "*"
+    "engines": {
+        "node": "*"
+    }
+   
+    
     
 }
